@@ -1,6 +1,6 @@
 👋 Hello there! Welcome to my GitHub profile!
 
-💻 Full Stack Web Developer | Ruby on Rails Enthusiast | Backtend Adventurer 🌟
+💻 Full Stack Web Developer | Ruby on Rails Enthusiast | Backend Adventurer 🌟
 
 🎓 I recently embarked on an exciting journey through a comprehensive bootcamp at Le Wagon for full stack web development, where I delved deep into the magical realms of Ruby on Rails, Ruby, CSS, SCSS, Bootstrap, and HTML. 🚀
 
