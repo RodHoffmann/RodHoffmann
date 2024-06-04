@@ -1,16 +1,12 @@
-👋 Hello there! Welcome to my GitHub profile!
+Sure! Here's the updated bio:
 
-💻 Full Stack Web Developer | Ruby on Rails Enthusiast | Backend Adventurer 🌟
+🚀 From MBA to Coder 🚀
 
-🎓 I recently embarked on an exciting journey through a comprehensive bootcamp at Le Wagon for full stack web development, where I delved deep into the magical realms of Ruby on Rails, Ruby, CSS, SCSS, Bootstrap, and HTML. 🚀
+With over 7 years of experience in business across various industries, I made a bold pivot 2 years ago to pursue my true passion: coding. After completing a web development BootCamp, I now teach at the same BootCamp, sharing my knowledge and igniting the same curiosity in others.
 
-🔥 With a burning passion for crafting seamless user experiences, I've had the pleasure of working on projects that showcase the power of AJAX, Stimulus, JavaScript, and Websocket. The realm of backtend development has captured my heart, and I'm determined to keep pushing the boundaries of what I can create without leaving the frontend behind! 💫
+I'm a lifelong learner, constantly staying updated with the latest technologies. Having excelled in the 42 Berlin piscine, I'm now deep into the core curriculum, learning low-level code to understand how everything works "under the hood," while balancing work and personal projects.
 
-⚙️ I'm also on a quest to master Ruby on Rails. I crave the challenge of building robust and elegant applications, fueled by the power of this magnificent framework. But that's not all—I'm eagerly opening the door to new frameworks and languages, gradually expanding my skillset as I embark on this thrilling coding adventure. 🌈
-
-🚀 Join me as I embark on this journey of constant growth, continuous learning, and building extraordinary things. Together, we'll craft breathtaking digital experiences that leave a lasting impression! 💡
-
-✨ Let's connect and create something amazing! Feel free to explore my projects and drop me a message. I'm always up for collaborating and bringing dreams to life! 🌟
+Let's connect and collaborate! I'm always excited to meet fellow enthusiasts passionate about programming.
 
 <!--
 **RodHoffmann/RodHoffmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
