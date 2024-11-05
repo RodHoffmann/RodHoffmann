@@ -1,5 +1,3 @@
-Sure! Here's the updated bio:
-
 🚀 From MBA to Coder 🚀
 
 With over 7 years of experience in business across various industries, I made a bold pivot 2 years ago to pursue my true passion: coding. After completing a web development BootCamp, I now teach at the same BootCamp, sharing my knowledge and igniting the same curiosity in others.
